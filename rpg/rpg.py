@@ -5,7 +5,7 @@ class Player:
     def __init__(self,name,prof):
         self.name = name
         self.hp = 50
-        self.power = 500
+        self.power = 5
         self.iq = 60
         self.prof = prof
         self.day = 1
